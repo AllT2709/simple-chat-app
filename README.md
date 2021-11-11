@@ -39,3 +39,7 @@ The project is finished
 - Run the project in development enviroment
 
   `$ npm run dev`
+
+**_Guide:_**
+
+- [Guide](https://www.youtube.com/watch?v=NU-HfZY3ATQ&list=LL&index=3&t=346s)
